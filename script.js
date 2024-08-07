@@ -1,0 +1,14 @@
+var age = " 25 Years Old";
+alert ("I am"+ " "+age);
+var visited_time = "10 times";
+document.write("You have visited this site"+" "+visited_time);
+var birth_year = 1999;
+document.write("<br><br> My birth year is"+" "+birth_year);
+var data_type ="<br> <br>Data type of my variable is number.";
+document.write(data_type);
+var Visitor_name="<br><br><b>John Deo</b>";
+document.write(Visitor_name);
+var quantity="<b> 5 T-Shirts</b>";
+document.write(" order"+ " "+quantity);
+var website ="XYZ Clothing store.";
+document.write(" from"+" "+website);
