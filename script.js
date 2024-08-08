@@ -9,13 +9,16 @@ alert ("I am"+ " "+age);
 // times a visitor has visited a web page. Show his/her
 // number of visits on your web page. For example: “You
 // have visited this site N times”:
+
 var visited_time = "10 times";
-document.write("You have visited this site"+" "+visited_time);
-var birth_year = 1999;
-document.write("<br><br> My birth year is"+" "+birth_year);
+alert("You have visited this site"+" "+visited_time);
+// document.write("You have visited this site"+" "+visited_time);
+
 
 // 3. Declare a variable called birthYear & assign to it your
 // birth year. Show the following message in your browser:
+var birth_year = 1999;
+document.write("<br><br> My birth year is"+" "+birth_year);
 
 var data_type ="<br> <br>Data type of my variable is number.";
 document.write(data_type);
